@@ -1,0 +1,15 @@
+.tabla-region-container {
+    width: 28%; 
+   min-height: 340px;
+  border: 2px solid black;
+   margin: 34px auto;
+   margin-left: 200px;
+   float: left;
+   background-color:rgb(39, 182, 110);
+  
+}
+
+.der{
+    word-spacing: 160px;
+
+}

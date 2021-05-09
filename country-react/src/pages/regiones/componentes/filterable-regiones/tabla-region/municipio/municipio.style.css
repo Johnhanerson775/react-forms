@@ -1,0 +1,15 @@
+.municipio-container {
+   border: 2px solid black ;
+   text-align: left;
+   margin-bottom: 2px;
+   background-color:brown;
+  
+
+} 
+
+ .product-without-stock{
+    color: red;
+ }
+ .derecha{
+    float: right;
+ }

@@ -1,0 +1,13 @@
+.formulario-container{
+    border: 1px black solid;
+    width: 27%;
+    min-height: 5px;
+    margin: 34px auto;
+    margin-left: 56%;
+    text-align: left;
+    background-color: rgb(39, 182, 110);
+}
+th{
+    font-weight: bold;
+    
+}
